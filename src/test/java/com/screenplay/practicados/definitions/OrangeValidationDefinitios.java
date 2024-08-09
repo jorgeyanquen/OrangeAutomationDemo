@@ -37,6 +37,6 @@ public class OrangeValidationDefinitios {
     }
     @Then("he sees the new employee in the application")
     public void he_sees_the_new_employee_in_the_application() {
-
+        newUserOrangeStep.validacion();
     }
 }
