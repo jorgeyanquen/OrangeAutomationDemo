@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d0afbbe-bb3a-4e83-9667-5d6f185160f3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/Steps/LoginOrangeStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/Steps/LoginOrangeStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/pages/LoginOrangePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/pages/LoginOrangePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/Steps/NewUserOrangeStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/pages/NewUserOrangePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/definitions/OrangeValidationDefinitios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/screenplay/practicados/definitions/OrangeValidationDefinitios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Orange.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Orange.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
